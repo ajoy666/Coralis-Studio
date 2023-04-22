@@ -34,12 +34,12 @@ class Email extends BaseConfig
     /**
      * SMTP Username
      */
-    public string $SMTPUser = 'azifauzi000@gmail.com';
+    public string $SMTPUser = 'yourEmailHere';
 
     /**
      * SMTP Password
      */
-    public string $SMTPPass = 'mezfhfssftmbuubf';
+    public string $SMTPPass = 'yourPasswordHere';
 
     /**
      * SMTP Port
